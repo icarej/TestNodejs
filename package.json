@@ -1,0 +1,24 @@
+{
+  "name": "icare",
+  "version": "1.0.0",
+  "description": "Test on nodej cours 1",
+  "main": "testChaineNjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icarej/TestNodejs.git"
+  },
+  "keywords": [
+    "string",
+    "contaings",
+    "substring"
+  ],
+  "author": "Icare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icarej/TestNodejs/issues"
+  },
+  "homepage": "https://github.com/icarej/TestNodejs#readme"
+}
